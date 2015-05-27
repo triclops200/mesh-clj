@@ -1,5 +1,7 @@
 # mesh-clj
 
+[![Clojars Project](http://clojars.org/mesh-clj/latest-version.svg)](http://clojars.org/mesh-clj)
+
 A Clojure library designed to be a thin wrapper around the mesh processing library located [http://leebyron.com/mesh/](here)
 
 ## License
